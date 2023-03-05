@@ -22,3 +22,6 @@ See [LICENSE](LICENSE)
 ## Notice
 
 This is a fork from the Firebase Codelab: FriendlyChat to mimick code scaffold and use for practice in personal project.
+
+Further references
+(CloudSkillsboost)[https://www.cloudskillsboost.google/focuses/660?parent=catalog]
