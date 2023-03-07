@@ -419,6 +419,7 @@ imageButtonElement.addEventListener('click', function (e) {
 mediaCaptureElement.addEventListener('change', onMediaFileSelected);
 
 const firebaseAppConfig = getFirebaseConfig();
+initializeApp(firebaseAppConfig);
 // TODO 0: Initialize Firebase
 
 // TODO 12: Initialize Firebase Performance Monitoring
